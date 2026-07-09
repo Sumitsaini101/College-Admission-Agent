@@ -1,0 +1,27 @@
+{
+  "name": "college-admission-agent-rag",
+  "description": "A College Admission Agent powered by RAG (Retrieval-Augmented Generation) to streamline the student admission process using IBM Watsonx and Granite models.",
+  "repository": "https://github.com/Sumitsaini101/College-Admission-Agent",
+  "keywords": [
+    "python",
+    "flask",
+    "rag",
+    "ibm-watsonx",
+    "granite",
+    "langchain",
+    "artificial-intelligence"
+  ],
+  "env": {
+    "IBM_CLOUD_API_KEY": {
+      "description": "Your IBM Cloud API Key.",
+      "required": true
+    },
+    "PROJECT_ID": {
+      "description": "Your Watsonx Project ID.",
+      "required": true
+    }
+  },
+  "scripts": {
+    "start": "python app.py"
+  }
+}

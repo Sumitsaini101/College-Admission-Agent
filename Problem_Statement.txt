@@ -1,0 +1,10 @@
+Problem Statement No.4 - College Admission Agent (RAG Based)
+
+The Challenge - A College Admission Agent, powered by RAG (Retrieval-Augmented Generation), streamlines the student admission process. 
+
+It retrieves and summarizes admission policies, eligibility criteria, and FAQs from institutional databases and official sources. 
+Prospective students can ask natural language questions and receive accurate, up-to-date responses instantly. 
+
+The agent helps with course selection, application guidance, fee structure, and important deadlines. Using trusted, real-time data, it reduces manual inquiries and enhances applicant experience. This AI-driven assistant boosts transparency, accessibility, and efficiency in college admissions. 
+
+Technology - Use of IBM cloud lite services / IBM Granite is mandatory.
