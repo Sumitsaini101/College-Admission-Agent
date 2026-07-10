@@ -10,7 +10,7 @@
 
 **EduAI** is an intelligent, Agentic Retrieval-Augmented Generation (RAG) system designed to autonomously streamline the college admission process. Built for prospective engineering students, this digital assistant retrieves highly specific institutional data—such as B.Tech CSE eligibility criteria, tuition fees, course matrices, and hostel details—and synthesizes factual, real-time responses using IBM's enterprise-grade Granite models. 
 
-This project was developed in alignment with the **AICTE & IBM University Engagement** challenge (Problem Statement No.4).
+This project was developed in alignment with the **AICTE & IBM Edunet Foundation University Engagement** challenge.
 
 ---
 
@@ -37,7 +37,7 @@ This project was developed in alignment with the **AICTE & IBM University Engage
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/College-Admission-Agent.git
+git clone https://github.com/Sumitsaini101/College-Admission-Agent
 cd College-Admission-Agent
 ```
 
